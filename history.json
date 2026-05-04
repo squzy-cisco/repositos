@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "2026-05-04 10:17:55",
+        "amount_from": 12.0,
+        "currency_from": "USD",
+        "amount_to": 10.2252,
+        "currency_to": "EUR",
+        "rate": 0.8521
+    },
+    {
+        "timestamp": "2026-05-04 10:21:30",
+        "amount_from": 67.0,
+        "currency_from": "USD",
+        "amount_to": 57.0907,
+        "currency_to": "EUR",
+        "rate": 0.8521
+    }
+]
